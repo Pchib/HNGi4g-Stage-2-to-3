@@ -1,7 +1,5 @@
 /* 
 
-Template 2110 Character
-http://www.tooplate.com/view/2110-character
 
 
 COLORS 
@@ -321,8 +319,8 @@ textarea {
   font-size: 16px;
 }
 .tm-bg-primary-dark:hover{
-  color: #000000;
-  background-color: #ffffff;
+  color: #000000 !important;
+  background-color: #ffffff !important;
   box-shadow: 5px 10px 4px #888888;
 }
 
